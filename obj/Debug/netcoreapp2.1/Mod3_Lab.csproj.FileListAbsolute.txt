@@ -1,0 +1,11 @@
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\bin\Debug\netcoreapp2.1\Mod3_Lab.deps.json
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\bin\Debug\netcoreapp2.1\Mod3_Lab.runtimeconfig.json
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\bin\Debug\netcoreapp2.1\Mod3_Lab.runtimeconfig.dev.json
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\bin\Debug\netcoreapp2.1\Mod3_Lab.dll
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\bin\Debug\netcoreapp2.1\Mod3_Lab.pdb
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.csprojAssemblyReference.cache
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.csproj.CoreCompileInputs.cache
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.AssemblyInfoInputs.cache
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.AssemblyInfo.cs
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.dll
+C:\Users\sujat\source\repos\Mod3_Lab\Mod3_Lab\obj\Debug\netcoreapp2.1\Mod3_Lab.pdb
